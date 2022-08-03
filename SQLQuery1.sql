@@ -1,4 +1,5 @@
 --World Covid Data pulled from https://ourworldindata.org/coronavirus on 7/29/22
+---Exported Covid Deaths table into Excel, cleaned/transformed into two tables (Covid Deaths and Covid Vaccinations), uploaded both tables into SQL Server
 
 
 
