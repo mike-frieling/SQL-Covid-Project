@@ -1,3 +1,7 @@
+--World Covid Data pulled from https://ourworldindata.org/coronavirus on 7/29/22
+
+
+
 --Select all from CovidDeaths Table
 SELECT *
 FROM CovidDeaths
